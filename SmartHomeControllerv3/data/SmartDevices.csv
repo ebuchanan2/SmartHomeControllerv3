@@ -1,0 +1,6 @@
+DeviceId,DeviceType,DeviceName,Brightness,Colour,CameraResolution,CurrentTemperature,TargetTemperature,SpeakerVolume
+1,SmartLight,Living Room Light,75,White,,,,
+2,SmartLight,Bedroom Light,50,Yellow,,,,
+3,SmartSecurityCamera,Front Door Camera,,,1080p,,,
+4,SmartThermostat,Smart Thermostat,,,,22.5,24.0,
+5,SmartSpeaker,Kitchen Speaker,,,,,,75
